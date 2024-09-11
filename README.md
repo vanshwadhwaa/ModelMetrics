@@ -35,7 +35,7 @@ pip install streamlit pandas numpy scikit-learn matplotlib
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/ml-model-comparison.git
+    git clone https://github.com/vanshwadhwaa/ModelMetrics.git
     cd ml-model-comparison
     ```
 
